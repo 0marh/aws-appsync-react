@@ -34,6 +34,6 @@
     "typescript": "^3.0.1"
   },
   "react-native": {
-    "./lib/rehydrated": "./lib/rehydrated-rn"
+    "./src/rehydrated": "./src/rehydrated-rn"
   }
 }
