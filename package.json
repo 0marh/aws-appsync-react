@@ -1,7 +1,7 @@
 {
   "name": "aws-appsync-react",
   "version": "1.2.9",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "license": "Apache-2.0",
   "description": "AWS Mobile AppSync SDK for JavaScript - React and React Native components",
   "author": {
